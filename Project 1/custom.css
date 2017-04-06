@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+#centercontent {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
